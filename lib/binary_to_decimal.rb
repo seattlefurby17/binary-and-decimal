@@ -7,3 +7,4 @@
 def binary_to_decimal(binary_array)
   raise NotImplementedError
 end
+# this iss
